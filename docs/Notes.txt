@@ -1,0 +1,46 @@
+SAD
+======
+- RAW Data(များနိုင်သမျှများ)
+	- Reference Data (Example: Product Info, Voucher Slip, Cash, Bank)
+- Analysis (ချုံနိုင်သလောက် ချုံ)
+	- Versioning (Features)
+	- UI/UX (Theme)
+	- DB
+- Design (Result ပုံဖော်ပြ)
+
+Chatting System 
+=================
+- User Type
+	- Admin
+	- User
+- Features
+	- Auth with Token
+	- 2 Factor Auth
+	- Auth Session Clear
+	- Special Login
+	- User Management
+	- Public group chat (Text/Video/Voice/Photo/Event/Location/Sticker/Emoji/Attachment),  Status(Seen, Unseen, Sent)
+	- Private chat (Text/Video/Voice/Photo/Secret/Event/Location/Sticker/Emoji/Attachment), Status(Seen, Unseen, Sent)
+	- Private group chat (Text/Video/Voice/Photo/Event/Location/Sticker/Emoji/Attachment), Status(Seen, Unseen, Sent)
+	- Follow on public group chat
+	- search in history
+	- Interactive on Message
+	- Reply on Message
+	- Photo Editing
+	- Photo/Video/Text Grouping from Message
+	- Sticker store
+	- Gif Search
+	- share forward file and text
+	- invite friend
+	- notification
+	- find friend, friend suggestion (location)
+	- my day (story)
+	- theme
+	- request message
+	- block
+	- ads
+	- Language Translate support
+	- chat bot
+
+
+	
